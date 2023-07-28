@@ -1,0 +1,50 @@
+
+		Customer Record
+
+NAme : 
+tarun
+
+Pick : Greater Noida
+Drop:IGI Airport
+Distance: 48Km
+Charges: Rs2205
+		Customer Record
+
+NAme : 
+aman
+Pick : Delhi
+Drop:Gurugram
+Distance: 40Km
+Charges: Rs196
+		Customer Record
+
+NAme : 
+aman
+
+Pick : Delhi
+Drop:Gurugram
+Distance: 40Km
+Charges: Rs196
+		Customer Record
+
+NAme : 
+pravesh
+
+Pick : Ghaziabad
+Drop:Noida
+Distance: 18Km
+Charges: Rs735
+		Customer Record
+
+NAme : 
+Rahul Yadav
+
+
+1
+
+
+1
+Pick : Ghaziabad
+Drop:Noida
+Distance: 18Km
+Charges: Rs735
